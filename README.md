@@ -65,6 +65,7 @@ The application scans a given directory to process supported source-code files, 
 ## 🖼️ Screenshots
 
 ![screenshot1](/Images/screenshot1.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FElektroStudios%2FCS-VB-Line-Endings-Normalizer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FElektroStudios%2FCS-VB-Line-Endings-Normalizer?ref=badge_shield)
 
 ![screenshot2](/Images/screenshot2.png)
 
@@ -172,3 +173,7 @@ This work is distributed for educational purposes and without any profit motive.
 <br></br>
 
 <h2 align="center"><u>Your support means the world to me! Thank you for considering it!</u> 👍</h2>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FElektroStudios%2FCS-VB-Line-Endings-Normalizer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FElektroStudios%2FCS-VB-Line-Endings-Normalizer?ref=badge_large)
